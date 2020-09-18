@@ -1,0 +1,27 @@
+{
+  "name": "apirestlearning",
+  "version": "1.0.0",
+  "description": "The aim of this project is to learn how REST APIs works",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/francopizzutti/apirestlearning.git"
+  },
+  "author": "Franco Pizzutti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/francopizzutti/apirestlearning/issues"
+  },
+  "homepage": "https://gitlab.com/francopizzutti/apirestlearning#readme"
+}
