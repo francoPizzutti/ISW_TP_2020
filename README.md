@@ -6,17 +6,17 @@ The aim of this project is to understand gitflow and approve the signature
 - Pizzutti Franco
 - Garcia Aguirre Gonzalo
 - Lozano Indiana
-- Grepi Nicolas
+- Greppi Nicolas
 
 ### To install
-execute following command 
+Execute following command 
 
 ```
 npm install
 ```
 
 ### To run
-execute following command 
+Execute following command 
 
 ```
 node server.js
