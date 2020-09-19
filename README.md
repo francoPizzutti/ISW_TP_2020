@@ -2,7 +2,7 @@
 
 The aim of this project is to understand gitflow and approve the signature
 
-### Integrants
+### Group members
 - Pizzutti Franco
 - Garcia Aguirre Gonzalo
 - Lozano Indiana
