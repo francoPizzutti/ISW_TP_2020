@@ -13,10 +13,18 @@ router.get('/',(request, response, nextFunction) => {
     });
 });
 
-router.get('/:calzado',(request, response, nextFunction) => {
-    response.status(200).json({
-        message: 'Handling GET requests to /product/calzado endpoint'
-    });
+router.get('/:productId',(request, response, nextFunction) => {
+    var id = request.params.productId;
+    switch(id) {
+        case 'calzado': response.status(200).json({
+            message: 'Handling GET request for a SHOE product'
+        });
+        break;
+        case 'sweater': response.status(200).json({
+            message: 'Handling GET request for a SWEATER product'
+        });
+        break;
+    }
 });
 
 /**
