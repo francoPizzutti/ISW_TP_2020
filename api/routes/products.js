@@ -13,6 +13,12 @@ router.get('/',(request, response, nextFunction) => {
     });
 });
 
+router.get('/:calzado',(request, response, nextFunction) => {
+    response.status(200).json({
+        message: 'Handling GET requests to /product/calzado endpoint'
+    });
+});
+
 /**
  * Handles common POST request
  * @returns json response
