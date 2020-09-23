@@ -47,6 +47,8 @@ router.get('/:productId', (request, response, nextFunction) => {
     }
 });
 
+// A comment 3.
+
 /**
  * Handles deteleByProductId DELETE request
  * @returns json response
