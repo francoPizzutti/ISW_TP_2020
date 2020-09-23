@@ -41,6 +41,8 @@ router.post('/',(request, response, nextFunction) => {
  * Handles getByProductId GET request
  * @returns json response
  */
+
+ // A comment 2
 router.get('/:productId', (request, response, nextFunction) => {
     const id = request.params.productId;
     switch(id) {
