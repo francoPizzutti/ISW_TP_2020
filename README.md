@@ -1,10 +1,10 @@
 ## ISW TP
 
 ### Miembros del grupo
-- Pizzutti Franco
-- Garcia Aguirre Gonzalo
-- Lozano Indiana
-- Greppi Nicolas
+- Pizzutti Franco - Fpizzuttimed@gmail.com
+- Garcia Aguirre Gonzalo - 
+- Lozano Indiana - indilozano19@gmail.com
+- Greppi Nicolas - nic.greppi@gmail.com
 
 ### Requerimientos
 
